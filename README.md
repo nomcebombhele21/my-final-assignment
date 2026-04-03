@@ -59,5 +59,6 @@ Below is a screenshot confirming a **T -> C** mutation. The top track shows the 
     Nextflow pipeline: main.nf
     nextflow.config
     variants.db (SQLite3 Databse)
+    my-final-assignment.png    
     README.md
         
